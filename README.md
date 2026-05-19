@@ -301,4 +301,3 @@ This project is developed for academic and educational purposes only.
 ## ⭐ Support
 
 If you found this project useful, give it a ⭐ on GitHub.
-```
